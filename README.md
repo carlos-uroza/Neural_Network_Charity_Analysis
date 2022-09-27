@@ -48,6 +48,7 @@ Our third model attempt changes the structure of the original model. This model 
 ![Optimization3](https://user-images.githubusercontent.com/103288980/192647948-8b94b853-fb9f-439e-9db7-25d222070886.PNG)
 
 ## Summary
+In summary, our top deep learning model resulted in an accuracy score of 72.85% with a loss metric of 0.5578. This represents a marginal improvement over the original model and would suggest additional analysis is required. 
 
 ### Recommendations
-In summary, our top deep learning model resulted in an accuracy score of 72.85% with a loss metric of 0.5578. This represents a marginal improvement over the original model and would suggest additional analysis is required. It is our recommendation the model would benefit from further feature engineering. Particularly testing the individual features for independence, outliers, and importance to the model. By reducing or eliminating additional features, we may be able to produce the largest improvements to our deep learning model.
+It is our recommendation the model would benefit from further feature engineering. Particularly testing the individual features for independence, outliers, and importance to the model. By reducing or eliminating additional features, we may be able to produce the largest improvements to our deep learning model.
